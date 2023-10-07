@@ -1,0 +1,11 @@
+{
+  "token": "discord-bot-token",
+	"clientId": "discord-bot-id",
+	"guildId": "discord-bot-guildid",
+    "youtube": {
+        "name": "custom-channel-name",
+        "example": "example-for-search",
+        "api-key": "youtube-api-key",
+        "channel-id": "youtube-channel-id"
+    }
+}
